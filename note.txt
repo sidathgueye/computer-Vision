@@ -1,0 +1,13 @@
+ssh gael@mimeto  
+pm2 status
+pm2 logs webrtc
+
+pm2 start webrtc
+pm2 status
+
+
+
+
+pm2 logs webrtc
+
+pm2 start webrtc
